@@ -8,5 +8,5 @@ This project is licensed under the [MIT License](LICENSE), which allows for the 
 
 ## Contact
 
-For any inquiries or feedback regarding JavaCafeOrders, please contact us at enes.basduvar@mail.com.
+For any inquiries or feedback regarding JavaCafeOrders, please contact us at yakalan6@gmail.com or enes.basduvar@mail.com.
 
